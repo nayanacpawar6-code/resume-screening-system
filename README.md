@@ -20,6 +20,11 @@ A Machine Learning web application that analyzes resumes and ranks candidates ba
 - Analyze resumes
 - Candidate ranking system
 
-## Author
+
+## Project Repository:
+https://github.com/nayanacpawar6-code/resume-screening-system
+
+
+## Developed By
 
 Nayana Pawar C
