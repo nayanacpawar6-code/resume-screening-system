@@ -1,8 +1,8 @@
-# Intelligent Resume Screening and Candidate Ranking System
+# ◆  Intelligent Resume Screening and Candidate Ranking System
 
 A Machine Learning web application that analyzes resumes and ranks candidates based on job description similarity.
 
-## Tech Stack
+## ⚙ Tech Stack
 
 - Python
 - Flask
@@ -13,7 +13,7 @@ A Machine Learning web application that analyzes resumes and ranks candidates ba
 - CSS
 - JavaScript
 
-## Features
+## ✧  Features
 
 - Upload resumes
 - Enter job description
@@ -21,10 +21,10 @@ A Machine Learning web application that analyzes resumes and ranks candidates ba
 - Candidate ranking system
 
 
-## Project Repository:
+## ⤿  Project Repository:
 https://github.com/nayanacpawar6-code/resume-screening-system
 
 
-## Developed By
+## ◉  Developed By
 
 Nayana Pawar C
