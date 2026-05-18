@@ -29,7 +29,7 @@ function App() {
     }
 
     const response = await fetch(
-      'http://127.0.0.1:5000/analyze',
+      'https://resume-screening-system-7j98.onrender.com/analyze',
       {
         method: 'POST',
         body: formData
