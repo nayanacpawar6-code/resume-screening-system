@@ -10,7 +10,7 @@ CORS(app)
 UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-# ✅ HOME ROUTE (so browser shows something)
+# ✅ HOME ROUTE
 @app.route("/")
 def home():
     return "Resume Screening Backend is Running!"
@@ -62,4 +62,4 @@ def analyze():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
