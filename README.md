@@ -1,3 +1,12 @@
+## 🌐 Live Project Links
+
+## ⤿  Frontend (Vercel)
+https://resume-screening-system-chi.vercel.app/
+
+## ⤿  Backend API (Render)
+https://resume-screening-system-7j98.onrender.com
+
+
 # ◆  Intelligent Resume Screening and Candidate Ranking System
 
 A Machine Learning web application that analyzes resumes and ranks candidates based on job description similarity.
@@ -20,13 +29,6 @@ A Machine Learning web application that analyzes resumes and ranks candidates ba
 - Analyze resumes
 - Candidate ranking system
 
-## 🌐 Live Project Links
-
-## ⤿  Frontend (Vercel)
-https://resume-screening-system-chi.vercel.app/
-
-## ⤿  Backend API (Render)
-https://resume-screening-system-7j98.onrender.com
 
 ## ⤿  Project Repository:
 https://github.com/nayanacpawar6-code/resume-screening-system
